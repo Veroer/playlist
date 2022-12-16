@@ -1,0 +1,19 @@
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+out/
+jar/
+sandbox/
+
+### IDE Project files
+.idea
+.project
+.DS_Store
+
+### vim
+*.swp
+### ctags
+tags
+
+### VS Code
+.vscode/
